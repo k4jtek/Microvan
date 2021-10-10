@@ -1,1 +1,8 @@
 /notes
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*~
+.gitmodules
